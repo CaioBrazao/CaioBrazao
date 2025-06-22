@@ -1,21 +1,19 @@
-Olá! Sou a Caio Rogerio Brazao!
-- Estudante de Engenharia de Software
-- Em processo de aprendizagem
-
-<a href="https://github.com/CaioBrazao/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=MariaClaraKalile&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/MariaClaraKalile/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaClaraKalile&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
-
-<div>
-  <a href="https://instagram.com/m.clarak" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/maria-clara-kalile-892867319/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href = "mailto:kalilemariaclara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </a> 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Caio+Rog%C3%A9rio+Braz%C3%A3o;Desenvolvedor;Amante+de+Intelig%C3%AAncia+Artificial;Entusiasta+de+Automatiza%C3%A7%C3%A3o;Let's+Code+Together+%F0%9F%9A%80" />
 </div>
 
-<img align="left" src="https://raw.githubusercontent.com/MariaClaraKalile/MariaClaraKalile/output/snake.svg" alt="Snake animation" />
+---
 
-<img height=120 align="right" src="cat.gif" />
+## - Sobre mim:
+
+- Atualmente trabalhando em **SaaS, Inteligência Artificial e Desenvolvimento Web.**
+- Aprendendo **Cloud Computing, Backend, APIs, IA e Automação.**
+- Todos os meus projetos estão disponíveis aqui no GitHub.
+- Me pergunte sobre **Python, Node.js, JavaScript, IA, APIs, Git e SQL.**
+- Curiosidade: *Amo transformar ideias em soluções escaláveis e inteligentes.*
+
+## - Tecnologias e Ferramentas que uso:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,nodejs,react,html,css,tailwind,git,github,docker,linux,mysql,postgres,figma" />
+</p>
