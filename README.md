@@ -5,7 +5,6 @@
 - Aprendendo **Cloud Computing, Backend, APIs, IA e Automação.**
 - Todos os meus projetos estão disponíveis aqui no GitHub.
 - Me pergunte sobre **Python, Node.js, JavaScript, IA, APIs, Git e SQL.**
-- Curiosidade: *Amo transformar ideias em soluções escaláveis e inteligentes.*
 
 ## - Tecnologias e Ferramentas que uso:
 
