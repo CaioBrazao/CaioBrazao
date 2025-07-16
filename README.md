@@ -1,8 +1,7 @@
 
 ## - Sobre mim:
 
-- Atualmente trabalhando em **SaaS, Inteligência Artificial e Desenvolvimento Web.**
-- Aprendendo **Cloud Computing, Backend, APIs, IA e Automação.**
+- Aprendendo **Cloud Computing, Backend, APIs, IA e Automação, SaaS, Inteligência Artificial e Desenvolvimento Web.**
 - Todos os meus projetos estão disponíveis aqui no GitHub.
 
 
