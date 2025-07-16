@@ -4,7 +4,7 @@
 - Atualmente trabalhando em **SaaS, Inteligência Artificial e Desenvolvimento Web.**
 - Aprendendo **Cloud Computing, Backend, APIs, IA e Automação.**
 - Todos os meus projetos estão disponíveis aqui no GitHub.
-- Me pergunte sobre **Python, Node.js, JavaScript, IA, APIs, Git e SQL.**
+
 
 ## - Tecnologias e Ferramentas que uso:
 
